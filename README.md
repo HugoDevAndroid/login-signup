@@ -2,6 +2,11 @@
 
 Este proyecto de una aplicación Android demostrativa muestra el diseño de la interfaz gráfica de las pantallas de Ingreso y Registro. El proyecto está realizado en lenguaje Kotlin y el kit de herramientas de desarrollo UI - Jetpack Compose.
 
+## VIDEO DE DEMOSTRACIÓN
+
+
+
+
 ## DESCRIPCIÓN DEL PROYECTO
 
 Esta descripción se debe utilizar para referencia de desarrollo de las pantallas de Acceso a la cuenta (Login) y Creación de cuenta (Signup).
@@ -45,9 +50,6 @@ Partes que componen la pantalla de Signup:
 <img src="src/login.png" width="270" height="500"> <img src="src/signup.png" width="270" height="500">
 </p>
 
-## VIDEO DE DEMOSTRACIÓN
-
-https://github.com/user-attachments/assets/8cbd28bd-78af-4a4b-82eb-60003a33e728
 
 ## PALABRAS FINALES
 
