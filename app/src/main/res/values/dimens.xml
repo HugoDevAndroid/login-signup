@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_neutral">0dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="line_bottom_medium">12dp</dimen>
+    <dimen name="line_bottom_small">10dp</dimen>
+    <dimen name="padding_button">25dp</dimen>
+    <dimen name="padding_button_neutral">0dp</dimen>
+    <dimen name="height_button_large">50dp</dimen>
+    <dimen name="height_button_medium">45dp</dimen>
+    <dimen name="height_button_neutral">40dp</dimen>
+    <dimen name="corners_button_neutral">0dp</dimen>
+    <dimen name="corners_button_small">6dp</dimen>
+    <dimen name="corners_button_medium">12dp</dimen>
+    <dimen name="icon_padding_vertical">8dp</dimen>
+    <dimen name="space_item">18dp</dimen>
+    <dimen name="line_weight">2dp</dimen>
+    <dimen name="line_width">1dp</dimen>
+    <dimen name="lineh_size">55dp</dimen>
+    <dimen name="linev_size">30dp</dimen>
+</resources>
