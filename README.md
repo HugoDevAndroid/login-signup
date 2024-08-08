@@ -2,6 +2,9 @@
 
 Este proyecto de una aplicación Android demostrativa muestra el diseño de la interfaz gráfica de las pantallas de Ingreso y Registro. El proyecto está realizado en lenguaje Kotlin y el kit de herramientas de desarrollo UI - Jetpack Compose.
 
+> [!IMPORTANT]
+> Si te interesa aprender cómo realizar alguna de estas funcionalidades de la aplicación, brindamos pequeños cursos de manera virtual y personalizada. O si deseas ayuda de un Desarrollador Junior o Senior **garantizado** para alguna aplicación que tienes en mente, puedes contactarnos por Whatsapp al [wa.me/59170616269](https://wa.me/59170616269).
+
 ## VIDEO DE DEMOSTRACIÓN
 
 https://github.com/user-attachments/assets/9e969dc3-2efd-4cd1-a58a-0fbe37b04899
@@ -38,11 +41,16 @@ A continuación se describe las partes o funciones que tiene cada pantalla del p
 ## PANTALLAS A OBTENER
 
 <p align="center">
-<img src="src/login.png" width="270" height="500"> <img src="src/signup.png" width="270" height="500">
+<img src="src/Login.png" width="270" height="500"> <img src="src/Signup.png" width="270" height="500">
 </p>
 
-## PALABRAS FINALES
+## APLICACIÓN DESCARGABLE
 
-Estos proyectos se irán replicando cada tres meses, debido al crecimiento de nuestro nicho exclusivo de clientes, la demanda de desarrolladores especializados en Front End de aplicaciones de dispositivos móviles nos permite ir requiriendo cada cierto tiempo de más personas interesadas en trabajar con nosotros, por lo que los que no hayan sido seleccionados por alguna razón podrán presentarse nuevamente en las siguientes convocatorias.
+Este repositorio cuenta con el instalador APK de la aplicación, para fines de prueba en un dispositivo físico o virtual en un equipo, como sugerencia de un dispositivo virtual de mejor rendimiento que el emulador de Android Studio, se puede usar BlueStacks. El archivo APK de ésta aplicación se encuentra en el directorio principal del proyecto, junto a MainActivity.kt.
 
-Les deseamos suerte en el desarrollo del proyecto.
+> [!WARNING]
+> Este repositorio tiene como única finalidad mostrar un portafolio de proyectos realizados, para mostrar la experiencia y conocimiento en el desarrollo de aplicaciones móviles con Android Studio, conocimientos de Kotlin y el kit de herramientas UI Jetpack Compose.
+> 
+> Este repositorio no cuenta con todos los archivos de código de la aplicación para clonar y hacer pruebas o modificaciones. Si tiene interés en acceder al código de desarrollo de la aplicación o pertenecer a una comunidad exclusiva de Desarrolladores Android para tener acceso al código de cientos de aplicaciones de prueba desarrolladas, puede contactarse con nosotros por Whatsapp al [wa.me/59170616269](https://wa.me/59170616269).
+
+### Te agradeceríamos que nos ayudes con una ⭐ para seguir creciendo en la comunidad de GitHub.
