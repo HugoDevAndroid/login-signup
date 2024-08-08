@@ -4,8 +4,7 @@ Este proyecto de una aplicación Android demostrativa muestra el diseño de la i
 
 ## VIDEO DE DEMOSTRACIÓN
 
-
-
+https://github.com/user-attachments/assets/9e969dc3-2efd-4cd1-a58a-0fbe37b04899
 
 ## DESCRIPCIÓN DEL PROYECTO
 
